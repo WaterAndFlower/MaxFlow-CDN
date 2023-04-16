@@ -1,0 +1,70 @@
+<linker>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Live2D.Cubism.Rendering.Masking.CubismMaskTexture" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.CubismPartsInspector" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.Expression.CubismExpressionData" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.Expression.CubismExpressionList" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.Pose.CubismPoseController" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.Expression.CubismExpressionController" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.Physics.CubismPhysicsController" preserve="all" />
+    <type fullname="Live2D.Cubism.Core.CubismModel" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.MotionFade.CubismFadeController" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.MotionFade.CubismFadeStateObserver" preserve="all" />
+    <type fullname="Live2D.Cubism.Core.CubismPart" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.MouthMovement.CubismMouthParameter" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.CubismHitDrawable" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.CubismParameterStore" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.CubismDisplayInfoPartName" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.CubismUpdateController" preserve="all" />
+    <type fullname="Live2D.Cubism.Core.CubismMoc" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.CubismDisplayInfoParameterName" preserve="all" />
+    <type fullname="Live2D.Cubism.Rendering.Masking.CubismMaskController" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.CubismParametersInspector" preserve="all" />
+    <type fullname="Live2D.Cubism.Core.CubismDrawable" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.CubismEyeBlinkController" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.Pose.CubismPosePart" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.Raycasting.CubismRaycastable" preserve="all" />
+    <type fullname="Live2D.Cubism.Core.CubismParameter" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.MotionFade.CubismFadeMotionData" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.MotionFade.CubismFadeMotionList" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.MouthMovement.CubismMouthController" preserve="all" />
+    <type fullname="Live2D.Cubism.Rendering.CubismRenderer" preserve="all" />
+    <type fullname="Live2D.Cubism.Framework.CubismEyeBlinkParameter" preserve="all" />
+    <type fullname="Live2D.Cubism.Rendering.CubismRenderController" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEditor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEditor.MonoScript" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+</linker>
